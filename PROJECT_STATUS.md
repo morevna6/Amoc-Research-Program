@@ -6,8 +6,8 @@
 **Last updated:** 31 July 2026
 **Current phase:** Phase 0 — Research Framework
 **Current module:** Module 0.1 — Project Philosophy
-**Current milestone:** 0.1.2 — Motivation and Significance
-**Next milestone:** 0.1.3 — Research Objectives
+**Current milestone:** 0.1.3 — Research Objectives
+**Next milestone:** 0.1.4 — Scope and Limitations
 
 ---
 
