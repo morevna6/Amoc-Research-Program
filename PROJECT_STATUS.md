@@ -1,9 +1,8 @@
-
 # Project Status
 
 **Project:** AMOC Research Program
 **Status:** Active
-**Last updated:** 31 July 2026
+**Last updated:** 16 August 2026
 **Current phase:** Phase 0 — Research Framework
 **Current module:** Module 0.1 — Project Philosophy
 **Current milestone:** 0.1.3 — Research Objectives
@@ -13,7 +12,7 @@
 
 ## Current Position
 
-The AMOC Research Program is currently establishing its philosophical and methodological foundations before beginning scientific analysis.
+The AMOC Research Program is currently establishing its project philosophy before proceeding to scientific methodology, literature management, foundational Earth-system study, or computational analysis.
 
 The project is still within:
 
@@ -32,6 +31,8 @@ This module defines:
 * whom the research is intended to serve;
 * how the programme may develop over time.
 
+Three of the six planned sections of Module 0.1 have now been completed.
+
 ---
 
 ## Module 0.1 Progress
@@ -41,7 +42,7 @@ This module defines:
 | 0.1.1   | Why This Project Exists     | Complete |
 | 0.1.2   | Motivation and Significance | Complete |
 | 0.1.3   | Research Objectives         | Complete |
-| 0.1.4   | Scope and Limitations       | Planned  |
+| 0.1.4   | Scope and Limitations       | Next     |
 | 0.1.5   | Intended Audience           | Planned  |
 | 0.1.6   | Long-Term Vision            | Planned  |
 
@@ -67,6 +68,7 @@ This module defines:
 
 * [x] [0.1.1 — Why This Project Exists](docs/phase-0/module-0.1-project-philosophy/0.1.1-why-this-project-exists.md)
 * [x] [0.1.2 — Motivation and Significance](docs/phase-0/module-0.1-project-philosophy/0.1.2-motivation-and-significance.md)
+* [x] [0.1.3 — Research Objectives](docs/phase-0/module-0.1-project-philosophy/0.1.3-research-objectives.md)
 
 ### Research Principles Established
 
@@ -82,6 +84,34 @@ The project has established an initial commitment to:
 * accessible communication without sacrificing scientific accuracy;
 * machine learning only where scientifically justified;
 * no predetermined conclusion concerning AMOC stability, weakening, tipping, or collapse.
+
+### Research Objectives Established
+
+The programme has now formally defined objectives concerning:
+
+* scientific understanding;
+* Earth-system and climate foundations;
+* physical oceanography;
+* AMOC theory;
+* literature and evidence evaluation;
+* observation systems;
+* dataset provenance and infrastructure;
+* data-quality assessment;
+* physical and statistical analysis;
+* early-warning and tipping-point research;
+* computational modelling;
+* uncertainty assessment;
+* reproducibility;
+* scientific interpretation;
+* impact research;
+* education;
+* scientific communication;
+* open science;
+* long-term research development.
+
+The project has also established the following objective hierarchy:
+
+> **Understand → Verify → Acquire → Validate → Analyse → Model → Interpret → Communicate → Reassess**
 
 ---
 
@@ -102,7 +132,8 @@ Amoc-Research-Program/
         └── module-0.1-project-philosophy/
             ├── README.md
             ├── 0.1.1-why-this-project-exists.md
-            └── 0.1.2-motivation-and-significance.md
+            ├── 0.1.2-motivation-and-significance.md
+            └── 0.1.3-research-objectives.md
 ```
 
 This structure will expand gradually as new phases, modules, datasets, and analytical components are introduced.
@@ -111,7 +142,7 @@ This structure will expand gradually as new phases, modules, datasets, and analy
 
 ## Current Scientific Boundaries
 
-At this stage, the repository contains the project framework and initial project-philosophy documents.
+At this stage, the repository contains the project framework and the first three project-philosophy documents.
 
 The project has **not yet begun**:
 
@@ -135,6 +166,8 @@ The project has **not yet begun**:
 * animation development;
 * project-generated scientific interpretation.
 
+The objectives described in `0.1.3 — Research Objectives` define intended future work. Their publication does not mean those analytical or scientific objectives have already been completed.
+
 ---
 
 ## Claims Not Currently Made
@@ -153,7 +186,7 @@ The project does not currently claim:
 * a production-ready data pipeline;
 * a finished scientific model.
 
-Such claims may only be considered during later phases and must be supported by appropriate datasets, methods, uncertainty analysis, validation, and comparison with existing scientific literature.
+Such claims may only be considered during later phases and must be supported by appropriate datasets, methods, uncertainty analysis, validation, physical interpretation, and comparison with existing scientific literature.
 
 ---
 
@@ -161,43 +194,50 @@ Such claims may only be considered during later phases and must be supported by 
 
 The next document is:
 
-# 0.1.3 — Research Objectives
+# 0.1.4 — Scope and Limitations
 
-This document will translate the project’s purpose and motivation into a structured set of objectives.
+This document will establish the operational and scientific boundaries of the AMOC Research Program.
 
 It will define:
 
-* the primary research objective;
-* scientific objectives;
-* methodological objectives;
-* computational objectives;
-* reproducibility objectives;
-* literature-review objectives;
-* data-infrastructure objectives;
-* educational objectives;
-* communication objectives;
-* long-term development objectives;
-* criteria for evaluating project progress.
+* what the project includes;
+* what the project deliberately excludes;
+* scientific scope;
+* geographic scope;
+* temporal scope;
+* observational-data scope;
+* modelling scope;
+* computational scope;
+* impact-research scope;
+* communication scope;
+* limits of independent research;
+* limitations of available observational records;
+* limitations of reconstructions and climate models;
+* statistical and methodological limitations;
+* attribution limitations;
+* prediction limitations;
+* data-access and computational limitations;
+* expertise boundaries;
+* conclusions the project can and cannot legitimately support.
 
-The objectives must be specific enough to guide later decisions while remaining appropriate for a long-term research programme.
+This section will act as a safeguard against uncontrolled scope expansion and overstatement of what the programme is capable of establishing.
 
 ---
 
 ## Remaining Module 0.1 Work
 
-After `0.1.3 — Research Objectives`, the module will continue with:
-
 ### 0.1.4 — Scope and Limitations
 
-This section will define:
+**Next**
 
-* what the project includes;
-* what it excludes;
-* scientific and technical boundaries;
-* limitations of independent research;
-* limitations of available observations;
-* limitations of models and reconstructions;
-* what the project can and cannot legitimately conclude.
+This section will establish the programme’s scientific, methodological, technical, and practical boundaries.
+
+Particular attention will be given to distinguishing between:
+
+* what the programme intends to investigate;
+* what available evidence can support;
+* what remains outside the programme’s current capacity;
+* what cannot be concluded reliably from the available data or methods.
 
 ### 0.1.5 — Intended Audience
 
@@ -211,7 +251,7 @@ This section will identify:
 * policy and risk professionals;
 * members of the public interested in climate and ocean science.
 
-It will explain what each audience may gain from the programme.
+It will explain what each audience may gain from the programme while preserving the distinction between educational material, independent research, and institutional scientific assessment.
 
 ### 0.1.6 — Long-Term Vision
 
@@ -223,6 +263,8 @@ This section will define the programme’s intended development as:
 * a scientific communication project;
 * a dataset and methodology archive;
 * a foundation for future collaborations and extensions.
+
+Completion of `0.1.6` will conclude **Module 0.1 — Project Philosophy**.
 
 ---
 
@@ -282,7 +324,9 @@ The following components will be developed and maintained throughout the project
 * version history;
 * weekly or milestone-based research summaries.
 
-Not all of these components exist yet. They will be introduced when the project reaches the stage at which they become operationally useful.
+Not all of these components exist yet.
+
+They will be introduced when the project reaches the stage at which they become operationally useful, rather than being created solely for administrative completeness.
 
 ---
 
@@ -296,6 +340,25 @@ Every module will return to four recurring questions:
 4. **What remains unknown?**
 
 These questions will guide the programme from foundational research through data acquisition, analysis, modelling, interpretation, and communication.
+
+---
+
+## Progress Criteria
+
+Project progress will not be measured solely by the number of documents, datasets, visualisations, models, or publications produced.
+
+A research stage represents meaningful progress when it improves at least one of the following:
+
+1. scientific understanding;
+2. evidence quality;
+3. methodological clarity;
+4. reproducibility;
+5. uncertainty characterisation;
+6. physical interpretation;
+7. documentation;
+8. accessibility of scientific knowledge.
+
+A technically sophisticated output without adequate scientific justification will not be treated as successful merely because it exists.
 
 ---
 
@@ -326,12 +389,14 @@ This file does not need to be updated for:
 
 The next update should occur when:
 
-> **0.1.3 — Research Objectives** is completed and published.
+> **0.1.4 — Scope and Limitations** is completed and published.
 
 At that point:
 
-* `0.1.3` will be marked complete;
-* Module 0.1 progress will advance to **3 of 6**;
-* the current milestone will become `0.1.3`;
-* the next milestone will become `0.1.4 — Scope and Limitations`;
-* the changelog and reference register will be updated where necessary.
+* `0.1.4` will be marked complete;
+* Module 0.1 progress will advance to **4 of 6**;
+* the current milestone will become `0.1.4 — Scope and Limitations`;
+* the next milestone will become `0.1.5 — Intended Audience`;
+* the repository structure will be updated to include `0.1.4-scope-and-limitations.md`;
+* the changelog will record the new milestone;
+* the reference register will be updated if the document introduces new external scientific sources.
