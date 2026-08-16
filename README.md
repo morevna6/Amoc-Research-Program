@@ -4,9 +4,8 @@
 
 > **Project status:** Active
 > **Current phase:** Phase 0 — Research Framework
-> **Current module:** Module 0.1 — Project Philosophy
-> **Current milestone:** 0.1.3 — Research Objectives
-> **Next milestone:** 0.1.4 — Scope and Limitations
+> **Completed module:** Module 0.1 — Project Philosophy
+> **Next module:** Module 0.2 — Scientific Methodology
 > **Initial release:** 28 July 2026
 > **Last updated:** 16 August 2026
 
@@ -31,9 +30,12 @@ Competing findings and unresolved uncertainties will be documented rather than f
 The programme is currently in:
 
 > **Phase 0 — Research Framework**
+
+The first module of Phase 0 has now been completed:
+
 > **Module 0.1 — Project Philosophy**
 
-Module 0.1 establishes the philosophical foundation of the research programme before scientific methodology, literature management, dataset acquisition, or computational analysis begins.
+Module 0.1 established the philosophical foundation of the research programme before scientific methodology, literature management, dataset acquisition, or computational analysis begins.
 
 ### Module 0.1 Progress
 
@@ -42,13 +44,34 @@ Module 0.1 establishes the philosophical foundation of the research programme be
 | 0.1.1   | Why This Project Exists     | Complete |
 | 0.1.2   | Motivation and Significance | Complete |
 | 0.1.3   | Research Objectives         | Complete |
-| 0.1.4   | Scope and Limitations       | Next     |
-| 0.1.5   | Intended Audience           | Planned  |
-| 0.1.6   | Long-Term Vision            | Planned  |
+| 0.1.4   | Scope and Limitations       | Complete |
+| 0.1.5   | Intended Audience           | Complete |
+| 0.1.6   | Long-Term Vision            | Complete |
 
-**Progress: 3 of 6 sections complete.**
+**Progress: 6 of 6 sections complete.**
+
+The programme will now proceed to:
+
+> **Module 0.2 — Scientific Methodology**
 
 See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the current project state.
+
+---
+
+## Module 0.1 — Project Philosophy
+
+Module 0.1 defines the intellectual foundation of the AMOC Research Program.
+
+Together, its six documents answer six fundamental questions:
+
+1. **Why does this project exist?**
+2. **Why does the subject matter?**
+3. **What does the programme intend to accomplish?**
+4. **What are its boundaries and limitations?**
+5. **For whom is the research being developed?**
+6. **What should the programme become over time?**
+
+These documents establish the principles that will govern later scientific, analytical, computational, and communication work.
 
 ---
 
@@ -108,6 +131,92 @@ The third document translates the programme’s purpose and motivation into stru
 It also establishes the programme’s analytical sequence:
 
 > **Understand → Verify → Acquire → Validate → Analyse → Model → Interpret → Communicate → Reassess**
+
+---
+
+### [0.1.4 — Scope and Limitations](docs/phase-0/module-0.1-project-philosophy/0.1.4-scope-and-limitations.md)
+
+The fourth document establishes the scientific, technical, analytical, and practical boundaries of the programme.
+
+It defines:
+
+* scientific scope;
+* geographic scope;
+* temporal scope;
+* evidence scope;
+* observational-data scope;
+* computational scope;
+* modelling scope;
+* machine-learning scope;
+* impact-research scope;
+* communication scope;
+* limits of independent research;
+* observational limitations;
+* reconstruction and model limitations;
+* statistical limitations;
+* attribution limitations;
+* prediction limitations;
+* data-access limitations;
+* computational limitations;
+* expertise boundaries.
+
+It establishes a central principle:
+
+> **Objectives define ambition. Scope defines relevance. Limitations define credibility.**
+
+---
+
+### [0.1.5 — Intended Audience](docs/phase-0/module-0.1-project-philosophy/0.1.5-intended-audience.md)
+
+The fifth document defines the audiences for whom the programme is being developed.
+
+These include:
+
+* researchers and scientists;
+* data analysts and data scientists;
+* programmers and scientific software developers;
+* students and independent learners;
+* independent researchers;
+* open-science communities;
+* science communicators;
+* climate-interested members of the public;
+* environmental communities;
+* policy and risk professionals;
+* domain specialists;
+* technical reviewers;
+* potential collaborators.
+
+The programme adopts a layered communication model in which different audiences may encounter different levels of technical detail while remaining connected to the same scientific evidence.
+
+The intended relationship between the project and its audience is based on:
+
+> **traceability rather than authority.**
+
+---
+
+### [0.1.6 — Long-Term Vision](docs/phase-0/module-0.1-project-philosophy/0.1.6-long-term-vision.md)
+
+The sixth document defines the intended long-term development of the AMOC Research Program.
+
+The programme is envisioned as:
+
+* a living research record;
+* an expanding scientific knowledge base;
+* a reproducible analytical resource;
+* a multi-source AMOC research framework;
+* an evolving literature and evidence system;
+* a record of scientific uncertainty;
+* a platform for replication and methodological comparison;
+* a scientific visualisation resource;
+* an educational archive;
+* a science-communication platform;
+* a potential foundation for collaboration and future publication.
+
+Its long-term purpose is to maintain a transparent chain connecting:
+
+> **knowledge → evidence → computation → interpretation → communication**
+
+The programme is intended to grow with the evidence rather than toward a predetermined conclusion.
 
 ---
 
@@ -238,6 +347,12 @@ Establish:
 * documentation practices;
 * citation standards;
 * literature-management systems.
+
+**Current status:**
+
+* Module 0.1 — Project Philosophy: **Complete**
+* Module 0.2 — Scientific Methodology: **Next**
+* Module 0.3 — Literature Management: **Planned**
 
 ### Phase I — Foundations of the Earth System
 
@@ -431,7 +546,7 @@ A preliminary project-wide source register is maintained at:
 
 ### [Reference Register](docs/references/REFERENCE_REGISTER.md)
 
-The register currently consolidates sources used in the first project-foundation documents.
+The register currently consolidates sources used during the project-foundation stage.
 
 It is **not yet the complete literature database** planned for Module 0.3.
 
@@ -457,22 +572,26 @@ Amoc-Research-Program/
             ├── README.md
             ├── 0.1.1-why-this-project-exists.md
             ├── 0.1.2-motivation-and-significance.md
-            └── 0.1.3-research-objectives.md
+            ├── 0.1.3-research-objectives.md
+            ├── 0.1.4-scope-and-limitations.md
+            ├── 0.1.5-intended-audience.md
+            └── 0.1.6-long-term-vision.md
 ```
 
-The repository structure will expand gradually as new modules, datasets, analytical workflows, research logs, code, figures, and communication outputs are introduced.
+The repository structure will expand gradually as Module 0.2, Module 0.3, scientific learning modules, datasets, analytical workflows, research logs, code, figures, and communication outputs are introduced.
 
 ---
 
 ## Current Scientific Boundaries
 
-At this stage, the repository contains the research framework and the first three project-philosophy documents.
+At this stage, **Module 0.1 — Project Philosophy has been completed**, but the programme remains within the research-framework phase.
 
 The project has **not yet begun**:
 
+* formal scientific methodology implementation;
 * systematic literature review;
 * formal evidence classification;
-* scientific methodology design;
+* full literature-database development;
 * dataset selection;
 * dataset acquisition;
 * metadata validation;
@@ -490,7 +609,9 @@ The project has **not yet begun**:
 * animation development;
 * project-generated scientific interpretation.
 
-The objectives defined in `0.1.3 — Research Objectives` represent planned future work, not completed analysis.
+The completion of Module 0.1 establishes how the programme intends to conduct research.
+
+It does not mean that the scientific investigation itself has already produced analytical findings.
 
 ---
 
@@ -565,34 +686,58 @@ A technically sophisticated output without adequate scientific justification wil
 
 ---
 
+## Completed Milestone
+
+### Module 0.1 — Project Philosophy
+
+Completed on **16 August 2026**.
+
+The module established:
+
+* project purpose;
+* motivation and significance;
+* research objectives;
+* scope and limitations;
+* intended audiences;
+* long-term vision.
+
+This completes the philosophical foundation of the AMOC Research Program.
+
+---
+
 ## Immediate Next Step
 
-The next project-foundation document is:
+The programme will now begin:
 
-### 0.1.4 — Scope and Limitations
+# Module 0.2 — Scientific Methodology
 
-This section will establish:
+This module will define how scientific work within the programme should be conducted.
 
-* what the project includes;
-* what it excludes;
-* scientific boundaries;
-* geographic and temporal scope;
-* observational-data boundaries;
-* modelling boundaries;
-* computational boundaries;
-* impact-research boundaries;
-* limits of independent research;
-* observational limitations;
-* reconstruction and model limitations;
-* statistical limitations;
-* attribution limitations;
-* prediction limitations;
-* data-access limitations;
-* computational limitations;
-* expertise boundaries;
-* conclusions the project can and cannot legitimately support.
+Planned topics include:
 
-After publication of `0.1.4`, Module 0.1 will advance to **4 of 6 sections complete**.
+* research workflow;
+* evidence hierarchy;
+* scientific reasoning;
+* hypothesis development;
+* distinction between exploratory and confirmatory analysis;
+* reproducibility principles;
+* open-science practices;
+* version-control strategy;
+* documentation standards;
+* citation standards;
+* uncertainty handling;
+* validation principles;
+* ethical considerations.
+
+Module 0.2 will transform the philosophy established in Module 0.1 into an operational research framework.
+
+The central question will shift from:
+
+> **What kind of research programme should this be?**
+
+to:
+
+> **How should this programme conduct scientific research?**
 
 ---
 
