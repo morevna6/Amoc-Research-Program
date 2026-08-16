@@ -4,34 +4,39 @@
 **Status:** Active
 **Last updated:** 16 August 2026
 **Current phase:** Phase 0 — Research Framework
-**Current module:** Module 0.1 — Project Philosophy
-**Current milestone:** 0.1.3 — Research Objectives
-**Next milestone:** 0.1.4 — Scope and Limitations
+**Completed module:** Module 0.1 — Project Philosophy
+**Current module:** Module 0.2 — Scientific Methodology
+**Current milestone:** Module 0.1 completed
+**Next milestone:** Begin Module 0.2 — Scientific Methodology
 
 ---
 
 ## Current Position
 
-The AMOC Research Program is currently establishing its project philosophy before proceeding to scientific methodology, literature management, foundational Earth-system study, or computational analysis.
-
-The project is still within:
-
-> **Phase 0 — Research Framework**
-
-The active module is:
+The AMOC Research Program has completed its first full module:
 
 > **Module 0.1 — Project Philosophy**
 
-This module defines:
+The project remains within:
+
+> **Phase 0 — Research Framework**
+
+Module 0.1 established the philosophical foundation of the programme by defining:
 
 * why the project exists;
 * why the AMOC and the chosen research approach are significant;
-* what the programme intends to achieve;
+* what the programme intends to accomplish;
 * what falls inside and outside its scope;
 * whom the research is intended to serve;
-* how the programme may develop over time.
+* how the programme is intended to develop over time.
 
-Three of the six planned sections of Module 0.1 have now been completed.
+All six planned sections of Module 0.1 have now been completed.
+
+The programme is therefore ready to proceed to:
+
+> **Module 0.2 — Scientific Methodology**
+
+The focus now shifts from defining **what kind of research programme this should be** to defining **how scientific research within the programme should actually be conducted**.
 
 ---
 
@@ -42,11 +47,13 @@ Three of the six planned sections of Module 0.1 have now been completed.
 | 0.1.1   | Why This Project Exists     | Complete |
 | 0.1.2   | Motivation and Significance | Complete |
 | 0.1.3   | Research Objectives         | Complete |
-| 0.1.4   | Scope and Limitations       | Next     |
-| 0.1.5   | Intended Audience           | Planned  |
-| 0.1.6   | Long-Term Vision            | Planned  |
+| 0.1.4   | Scope and Limitations       | Complete |
+| 0.1.5   | Intended Audience           | Complete |
+| 0.1.6   | Long-Term Vision            | Complete |
 
-**Progress:** 3 of 6 sections complete.
+**Progress:** 6 of 6 sections complete.
+
+**Module status:** Complete.
 
 ---
 
@@ -69,25 +76,37 @@ Three of the six planned sections of Module 0.1 have now been completed.
 * [x] [0.1.1 — Why This Project Exists](docs/phase-0/module-0.1-project-philosophy/0.1.1-why-this-project-exists.md)
 * [x] [0.1.2 — Motivation and Significance](docs/phase-0/module-0.1-project-philosophy/0.1.2-motivation-and-significance.md)
 * [x] [0.1.3 — Research Objectives](docs/phase-0/module-0.1-project-philosophy/0.1.3-research-objectives.md)
+* [x] [0.1.4 — Scope and Limitations](docs/phase-0/module-0.1-project-philosophy/0.1.4-scope-and-limitations.md)
+* [x] [0.1.5 — Intended Audience](docs/phase-0/module-0.1-project-philosophy/0.1.5-intended-audience.md)
+* [x] [0.1.6 — Long-Term Vision](docs/phase-0/module-0.1-project-philosophy/0.1.6-long-term-vision.md)
 
-### Research Principles Established
+---
 
-The project has established an initial commitment to:
+## Module 0.1 Outcomes
 
-* evidence before narrative;
-* research before visualisation;
-* reproducibility before convenience;
-* transparent assumptions and limitations;
-* distinction between observations, reconstructions, simulations, and projections;
-* preservation of scientific disagreement;
-* uncertainty-aware interpretation;
-* accessible communication without sacrificing scientific accuracy;
-* machine learning only where scientifically justified;
-* no predetermined conclusion concerning AMOC stability, weakening, tipping, or collapse.
+### Project Purpose Established
+
+The programme has established:
+
+* why AMOC warrants sustained investigation;
+* why the project is structured as a long-term research programme rather than a one-time analytical project;
+* why scientific understanding must precede computational analysis;
+* why competing evidence and uncertainty must remain visible.
+
+### Motivation and Significance Established
+
+The programme has documented:
+
+* scientific motivation;
+* Earth-system relevance;
+* methodological significance;
+* environmental and societal relevance;
+* the role of independent research;
+* the importance of responsible scientific communication.
 
 ### Research Objectives Established
 
-The programme has now formally defined objectives concerning:
+The programme has formally defined objectives concerning:
 
 * scientific understanding;
 * Earth-system and climate foundations;
@@ -109,9 +128,108 @@ The programme has now formally defined objectives concerning:
 * open science;
 * long-term research development.
 
-The project has also established the following objective hierarchy:
+The project established the following objective hierarchy:
 
 > **Understand → Verify → Acquire → Validate → Analyse → Model → Interpret → Communicate → Reassess**
+
+### Scope and Limitations Established
+
+The programme now explicitly defines:
+
+* scientific scope;
+* geographic scope;
+* temporal scope;
+* evidence scope;
+* data scope;
+* observational scope;
+* computational scope;
+* modelling scope;
+* machine-learning scope;
+* impact-research scope;
+* educational and communication scope.
+
+It also documents limitations associated with:
+
+* independent research;
+* expertise;
+* observational records;
+* reconstructions;
+* models;
+* statistics;
+* causality;
+* attribution;
+* prediction;
+* data integration;
+* data access;
+* computational resources;
+* reproducibility;
+* peer review.
+
+The relationship among ambition, relevance, and scientific restraint is summarised as:
+
+> **Objectives define ambition. Scope defines relevance. Limitations define credibility.**
+
+### Intended Audience Established
+
+The programme has identified audiences including:
+
+* researchers and scientists;
+* data analysts and data scientists;
+* programmers and scientific software developers;
+* students;
+* independent learners;
+* independent researchers;
+* open-science communities;
+* science communicators;
+* climate-interested members of the public;
+* environmental communities;
+* policy and risk professionals;
+* domain specialists;
+* technical reviewers;
+* potential collaborators.
+
+The programme adopts a layered communication model based on:
+
+> **Traceability rather than authority.**
+
+### Long-Term Vision Established
+
+The programme is intended to evolve into:
+
+* a living research record;
+* an expanding scientific knowledge base;
+* a reproducible analytical resource;
+* a multi-source AMOC research framework;
+* an evolving literature and evidence system;
+* a documented record of uncertainty;
+* a platform for replication and methodological comparison;
+* a scientific visualisation resource;
+* an educational archive;
+* a science-communication platform;
+* a foundation for future collaboration and possible formal publication.
+
+Its long-term research chain is:
+
+> **knowledge → evidence → computation → interpretation → communication**
+
+---
+
+## Research Principles Established
+
+The programme has established an initial commitment to:
+
+* evidence before narrative;
+* research before visualisation;
+* reproducibility before convenience;
+* transparent assumptions and limitations;
+* distinction between observations, reconstructions, simulations, and projections;
+* preservation of scientific disagreement;
+* uncertainty-aware interpretation;
+* accessible communication without sacrificing scientific accuracy;
+* machine learning only where scientifically justified;
+* physical meaning before statistical excitement;
+* revision when evidence changes;
+* no predetermined conclusion concerning AMOC stability, weakening, tipping, or collapse.
 
 ---
 
@@ -133,22 +251,28 @@ Amoc-Research-Program/
             ├── README.md
             ├── 0.1.1-why-this-project-exists.md
             ├── 0.1.2-motivation-and-significance.md
-            └── 0.1.3-research-objectives.md
+            ├── 0.1.3-research-objectives.md
+            ├── 0.1.4-scope-and-limitations.md
+            ├── 0.1.5-intended-audience.md
+            └── 0.1.6-long-term-vision.md
 ```
 
-This structure will expand gradually as new phases, modules, datasets, and analytical components are introduced.
+The next structural expansion will introduce the directory and documents for:
+
+> **Module 0.2 — Scientific Methodology**
 
 ---
 
 ## Current Scientific Boundaries
 
-At this stage, the repository contains the project framework and the first three project-philosophy documents.
+Completion of Module 0.1 does **not** mean that observational or computational AMOC analysis has begun.
 
 The project has **not yet begun**:
 
+* formal scientific methodology implementation;
 * systematic literature review;
 * formal evidence classification;
-* scientific methodology design;
+* full literature-database development;
 * dataset selection;
 * dataset acquisition;
 * metadata validation;
@@ -166,7 +290,9 @@ The project has **not yet begun**:
 * animation development;
 * project-generated scientific interpretation.
 
-The objectives described in `0.1.3 — Research Objectives` define intended future work. Their publication does not mean those analytical or scientific objectives have already been completed.
+Module 0.1 establishes how the programme intends to think about research.
+
+Module 0.2 will establish how that research should be conducted.
 
 ---
 
@@ -183,6 +309,7 @@ The project does not currently claim:
 * proof that observed change is entirely natural;
 * validation or rejection of a particular published study;
 * a complete synthesis of the AMOC literature;
+* a validated early-warning signal;
 * a production-ready data pipeline;
 * a finished scientific model.
 
@@ -192,111 +319,76 @@ Such claims may only be considered during later phases and must be supported by 
 
 ## Immediate Next Step
 
-The next document is:
+The next active module is:
 
-# 0.1.4 — Scope and Limitations
+# Module 0.2 — Scientific Methodology
 
-This document will establish the operational and scientific boundaries of the AMOC Research Program.
-
-It will define:
-
-* what the project includes;
-* what the project deliberately excludes;
-* scientific scope;
-* geographic scope;
-* temporal scope;
-* observational-data scope;
-* modelling scope;
-* computational scope;
-* impact-research scope;
-* communication scope;
-* limits of independent research;
-* limitations of available observational records;
-* limitations of reconstructions and climate models;
-* statistical and methodological limitations;
-* attribution limitations;
-* prediction limitations;
-* data-access and computational limitations;
-* expertise boundaries;
-* conclusions the project can and cannot legitimately support.
-
-This section will act as a safeguard against uncontrolled scope expansion and overstatement of what the programme is capable of establishing.
-
----
-
-## Remaining Module 0.1 Work
-
-### 0.1.4 — Scope and Limitations
-
-**Next**
-
-This section will establish the programme’s scientific, methodological, technical, and practical boundaries.
-
-Particular attention will be given to distinguishing between:
-
-* what the programme intends to investigate;
-* what available evidence can support;
-* what remains outside the programme’s current capacity;
-* what cannot be concluded reliably from the available data or methods.
-
-### 0.1.5 — Intended Audience
-
-This section will identify:
-
-* researchers;
-* data professionals;
-* students;
-* developers;
-* science communicators;
-* policy and risk professionals;
-* members of the public interested in climate and ocean science.
-
-It will explain what each audience may gain from the programme while preserving the distinction between educational material, independent research, and institutional scientific assessment.
-
-### 0.1.6 — Long-Term Vision
-
-This section will define the programme’s intended development as:
-
-* a living research record;
-* a reproducible analytical resource;
-* an educational platform;
-* a scientific communication project;
-* a dataset and methodology archive;
-* a foundation for future collaborations and extensions.
-
-Completion of `0.1.6` will conclude **Module 0.1 — Project Philosophy**.
-
----
-
-## Phase 0 Roadmap
-
-After Module 0.1 is completed, the project will proceed to:
-
-### Module 0.2 — Scientific Methodology
+This module will translate the research philosophy established in Module 0.1 into an operational scientific framework.
 
 Planned topics include:
 
 * research workflow;
 * evidence hierarchy;
 * scientific reasoning;
+* hypothesis development;
+* exploratory and confirmatory analysis;
 * reproducibility principles;
 * open-science practices;
 * version-control strategy;
 * documentation standards;
 * citation standards;
+* uncertainty handling;
+* validation principles;
 * ethical considerations.
+
+The central question of Module 0.2 is:
+
+> **How should the AMOC Research Program conduct scientific research in a way that is systematic, transparent, reproducible, and appropriately cautious?**
+
+---
+
+## Phase 0 Progress
+
+### Module 0.1 — Project Philosophy
+
+**Status:** Complete
+
+* [x] Why This Project Exists
+* [x] Motivation and Significance
+* [x] Research Objectives
+* [x] Scope and Limitations
+* [x] Intended Audience
+* [x] Long-Term Vision
+
+### Module 0.2 — Scientific Methodology
+
+**Status:** Next
+
+Planned areas:
+
+* [ ] Research workflow
+* [ ] Evidence hierarchy
+* [ ] Scientific reasoning
+* [ ] Reproducibility principles
+* [ ] Open-science practices
+* [ ] Version-control strategy
+* [ ] Documentation standards
+* [ ] Citation standards
+* [ ] Ethical considerations
 
 ### Module 0.3 — Literature Management
 
-Planned topics include:
+**Status:** Planned
 
-* literature-review methodology;
-* source classification;
-* paper-classification system;
-* research database;
-* note-taking framework;
-* citation organisation;
-* research-gap identification.
+Planned areas:
+
+* [ ] Literature-review methodology
+* [ ] Source classification
+* [ ] Paper-classification system
+* [ ] Research database
+* [ ] Note-taking framework
+* [ ] Citation organisation
+* [ ] Research-gap identification
 
 Only after Phase 0 is complete will the programme proceed to:
 
@@ -322,11 +414,11 @@ The following components will be developed and maintained throughout the project
 * code documentation;
 * reproducibility checks;
 * version history;
-* weekly or milestone-based research summaries.
+* milestone-based research summaries.
 
 Not all of these components exist yet.
 
-They will be introduced when the project reaches the stage at which they become operationally useful, rather than being created solely for administrative completeness.
+They will be introduced when the project reaches the stage at which they become scientifically or operationally useful.
 
 ---
 
@@ -387,16 +479,17 @@ This file does not need to be updated for:
 
 ## Next Status Update
 
-The next update should occur when:
+The next status update should occur when the first defined component of:
 
-> **0.1.4 — Scope and Limitations** is completed and published.
+> **Module 0.2 — Scientific Methodology**
+
+is completed and published.
 
 At that point:
 
-* `0.1.4` will be marked complete;
-* Module 0.1 progress will advance to **4 of 6**;
-* the current milestone will become `0.1.4 — Scope and Limitations`;
-* the next milestone will become `0.1.5 — Intended Audience`;
-* the repository structure will be updated to include `0.1.4-scope-and-limitations.md`;
-* the changelog will record the new milestone;
-* the reference register will be updated if the document introduces new external scientific sources.
+* Module 0.2 progress will be recorded;
+* the current milestone will be updated;
+* the next methodological milestone will be identified;
+* the repository structure will include the Module 0.2 directory and its initial document;
+* the changelog will record the beginning of the scientific-methodology stage;
+* the reference register will be updated where new external methodological sources are introduced.
